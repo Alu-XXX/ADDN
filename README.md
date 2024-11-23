@@ -1,6 +1,6 @@
 # ADDN
 
-The algorithm is based on continuous relaxation and gradient descent in the architecture space. It is able to efficiently design high-performance neural network architectures on knowledge distillation for image classification (on CIFAR-10 and ImageNet). Only a single GPU is required.
+The algorithm is based on continuous relaxation and gradient descent in architecture space. It is able to efficiently design high-performance knowledge distillation network architectures and has been used for image classification (such as CIFAR-10 and ImageNet). Only a single GPU is required.
 
 ## Requirements
 ```
